@@ -1,14 +1,14 @@
-## Heyy There, Ich bin Alex! 👋
+## Heyy There, I`m Alex! 👋
 
-**`Ich bin: `**
+**`I am: `**
 
-- 20 Jahre alt 
+- 20 years old
 
 - Informatik Student @ TUM
 
-- Interessiert an KI, autonomen Fahren und Komplexen Algorithmen 
+- Interesstet in AI, self-driving cars and Complex Algorithms
 
-- auf LinktIn: www.linkedin.com/in/alexander-köhler-644638282
+- on LinktIn: www.linkedin.com/in/alexander-köhler-644638282
 
 
 
