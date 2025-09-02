@@ -6,7 +6,7 @@
 
 - Informatik Student @ TUM
 
-- Interesstet in AI, self-driving cars and Complex Algorithms
+- Interessted in AI, self-driving cars and complex algorithms
 
 - on LinktIn: www.linkedin.com/in/alexander-köhler-644638282
 
