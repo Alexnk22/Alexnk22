@@ -1,4 +1,17 @@
-## Hi there 👋
+## Heyy There, Ich bin Alex! 👋
+
+**`Ich bin: `**
+
+- 20 Jahre alt 
+
+- Informatik Student @ TUM
+
+- Interessiert an KI, autonomen Fahren und Komplexen Algorithmen 
+
+- auf LinktIn: www.linkedin.com/in/alexander-köhler-644638282
+
+
+
 
 <!--
 **Alexnk22/Alexnk22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
