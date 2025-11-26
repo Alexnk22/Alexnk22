@@ -4,11 +4,11 @@
 
 - 20 years old
 
-- Informatik Student @ TUM
+- Computer science student @ TUM
 
-- Interessted in AI, self-driving cars and complex algorithms
+- Interested in AI, self-driving cars and complex algorithms
 
-- on LinktIn: www.linkedin.com/in/alexander-köhler-644638282
+- on LinkedIn: www.linkedin.com/in/alexander-köhler-644638282
 
 
 
