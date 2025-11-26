@@ -1,4 +1,4 @@
-## Heyy There, I`m Alex! 👋
+## Heyy There, I'm Alex! 👋
 
 **`I am: `**
 
