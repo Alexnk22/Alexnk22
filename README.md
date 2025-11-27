@@ -6,7 +6,7 @@
 
 - Computer science student @ TUM
 
-- Interested in AI, self-driving cars and complex algorithms
+- Interested in cyber security, self-driving cars, AI and complex algorithms
 
 - on LinkedIn: www.linkedin.com/in/alexander-köhler-644638282
 
